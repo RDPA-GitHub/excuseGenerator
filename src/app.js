@@ -7,7 +7,7 @@ window.onload = function () {
 
 let excuseGeneraor = () => {
   // BSD de Excusas
-    let who = ['The Dog', 'My Granma', 'His Turtle', 'My Bird'];
+    let who = ['The Dog 🐶', 'My Granma 🧑‍🦳', 'His Turtle 🐢', 'My Bird 🦜'];
     let what = ['eat', 'pissed', 'crushed', 'broked'];
     let when = ['before the class', 'right in the time', 'when I finished', 'during my lunch', 'while I was playing'];
 
